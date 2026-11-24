@@ -267,3 +267,5 @@ predictefy.com.
 - [Polyteller](https://polyteller.com/?utm_source=predictefy) - Free Chrome extension adding live market countdowns, trade notifications, a privacy mode, and safety checks for Polymarket traders.
 - [Prediction Index](https://predictionindex.xyz/?utm_source=predictefy) - Ranking dashboard and directory listing over 140 prediction market projects, filterable by chain, market type, and operating status.
 - [UMA rocks](https://www.uma.rocks/?utm_source=predictefy) - Self-custodial platform automating UMA token delegation for oracle voting rewards tied to Polymarket dispute resolution.
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
